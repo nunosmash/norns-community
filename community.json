@@ -4243,10 +4243,28 @@
     {
       "project_name": "AshSynth",
       "project_url": "https://github.com/nunosmash/AshSynth",
-      "author": "nunosmash",
+      "author": "Ash",
       "description": "Norns monophonic synthesizer: dual oscillators, FM, split envelopes, clock-synced delay & reverb",
       "documentation_url": "https://github.com/nunosmash/AshSynth/blob/main/README.md",
-      "tags": ["synth", "engine", "midi", "grid"]
+      "tags": [
+        "synth",
+        "engine",
+        "midi",
+        "grid"
+      ]
+    },
+    {
+      "project_name": "Awake-AshSynth",
+      "project_url": "https://github.com/nunosmash/Awake-AshSynth",
+      "author": "Ash",
+      "description": "Awake dual sequencer with AshSynth — TIE legato, glide, grid",
+      "discussion_url": "https://llllllll.co/t/awake/21022",
+      "tags": [
+        "sequencer",
+        "grid",
+        "synth",
+        "midi"
+      ]
     }
   ]
 }
